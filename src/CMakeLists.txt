@@ -1,7 +1,7 @@
 ##########################################################################################
 # CMake build script for NearestSearch.
 #
-##############################################################################
+################################################################
 
 #let all libraries be static, not shared
 OPTION(BUILD_SHARED_LIBS "Build shared libraries (DLLs)." OFF)
