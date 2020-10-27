@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "stdexcept": "cpp",
+        "xstring": "cpp",
+        "xiosbase": "cpp"
+    }
+}/*  */
